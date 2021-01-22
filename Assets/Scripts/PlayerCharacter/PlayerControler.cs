@@ -41,6 +41,8 @@ public class PlayerControler : MonoBehaviour
     int maxGem = 5;
     private SpriteRenderer sprite;
     int sortingOrder = 0;
+    [SerializeField]
+    int gemMinim = 1;
 
     enum State
     {
@@ -81,7 +83,12 @@ public class PlayerControler : MonoBehaviour
             }
         }
 
-
+        if (gemCatch >= gemMinim)
+        {
+            Win = true;
+            state = State.WINGAME;
+            Physics2D.IgnoreLayerCollision(layerPlayer, layerWinObject, Win);
+        }
 
         for (int i = 0; i < gem.Length; i++)
         {
@@ -152,15 +159,7 @@ public class PlayerControler : MonoBehaviour
     public void AddGem(int value)
     {
         gemCatch += value;
-    }
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.gameObject.tag == "WinObject")
-        {
-            Win = true;
-            state = State.WINGAME;
-            Physics2D.IgnoreLayerCollision(layerPlayer, layerWinObject, Win);
-        }
+        Debug.Log("fait add value");
     }
 
     private void OnCollisionExit2D(Collision2D other)

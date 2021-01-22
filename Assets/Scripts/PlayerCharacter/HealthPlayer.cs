@@ -75,6 +75,7 @@ public class HealthPlayer : MonoBehaviour
                 break;
             case State.GAMEOVER:
                 Destroy(gameObject);
+                Debug.Log("fait");
                 break;
         }
     }
@@ -85,13 +86,13 @@ public class HealthPlayer : MonoBehaviour
         {
             currentHealth--;
             Death = true;
-            audioManager_.PlayWithRandomPitch(hurtClips_[Random.Range(0, hurtClips_.Count)]);
+            //audioManager_.PlayWithRandomPitch(hurtClips_[Random.Range(0, hurtClips_.Count)]);
         }
         if (other.gameObject.tag == "Enemies")
         {
             currentHealth--;
             Death = true;
-            audioManager_.PlayWithRandomPitch(hurtClips_[Random.Range(0, hurtClips_.Count)]);
+            //audioManager_.PlayWithRandomPitch(hurtClips_[Random.Range(0, hurtClips_.Count)]);
         }
         if (currentHealth > 0 && Death)
         {
