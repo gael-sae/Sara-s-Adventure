@@ -1,0 +1,4387 @@
+fileFormatVersion: 2
+guid: be77dfae77e2b2a4dac0d5c5e51ce426
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6616789949963599957
+    second: SaraHairTopLayer_0
+  - first:
+      213: 1846351859420975643
+    second: SaraHairTopLayer_1
+  - first:
+      213: -3538703594888456536
+    second: SaraHairTopLayer_2
+  - first:
+      213: -6688161731756675011
+    second: SaraHairTopLayer_3
+  - first:
+      213: 4511463300723894833
+    second: SaraHairTopLayer_4
+  - first:
+      213: 7299093545727451251
+    second: SaraHairTopLayer_5
+  - first:
+      213: -1601646023031949346
+    second: SaraHairTopLayer_6
+  - first:
+      213: 8366479853590149285
+    second: SaraHairTopLayer_7
+  - first:
+      213: 8042107096306997691
+    second: SaraHairTopLayer_8
+  - first:
+      213: 4626641540277992721
+    second: SaraHairTopLayer_9
+  - first:
+      213: 8343342381259600352
+    second: SaraHairTopLayer_10
+  - first:
+      213: 4511268048072974413
+    second: SaraHairTopLayer_11
+  - first:
+      213: -1073663859329740229
+    second: SaraHairTopLayer_12
+  - first:
+      213: -8162949360900543979
+    second: SaraHairTopLayer_13
+  - first:
+      213: -1705097984214152972
+    second: SaraHairTopLayer_14
+  - first:
+      213: -3628371873091914268
+    second: SaraHairTopLayer_15
+  - first:
+      213: 2836151391393443813
+    second: SaraHairTopLayer_16
+  - first:
+      213: -4130580393592394868
+    second: SaraHairTopLayer_17
+  - first:
+      213: 6314395229545075573
+    second: SaraHairTopLayer_18
+  - first:
+      213: -1361383212154041488
+    second: SaraHairTopLayer_19
+  - first:
+      213: -7576498777885970856
+    second: SaraHairTopLayer_20
+  - first:
+      213: 6737296775720751650
+    second: SaraHairTopLayer_21
+  - first:
+      213: -8879880891031075804
+    second: SaraHairTopLayer_22
+  - first:
+      213: -7805983401158940543
+    second: SaraHairTopLayer_23
+  - first:
+      213: -7713148329547303698
+    second: SaraHairTopLayer_24
+  - first:
+      213: -8494252433264785900
+    second: SaraHairTopLayer_25
+  - first:
+      213: 385443890595505036
+    second: SaraHairTopLayer_26
+  - first:
+      213: -7291483559131003064
+    second: SaraHairTopLayer_27
+  - first:
+      213: 4240741074087019711
+    second: SaraHairTopLayer_28
+  - first:
+      213: 7756501301675143094
+    second: SaraHairTopLayer_29
+  - first:
+      213: 4002602941644718437
+    second: SaraHairTopLayer_30
+  - first:
+      213: -5282459617343731443
+    second: SaraHairTopLayer_31
+  - first:
+      213: -7635333811543578812
+    second: SaraHairTopLayer_32
+  - first:
+      213: 3190117465136680399
+    second: SaraHairTopLayer_33
+  - first:
+      213: -3234196589950955156
+    second: SaraHairTopLayer_34
+  - first:
+      213: -6210016581171088201
+    second: SaraHairTopLayer_35
+  - first:
+      213: -2151033567469767475
+    second: SaraHairTopLayer_36
+  - first:
+      213: 595763196939296310
+    second: SaraHairTopLayer_37
+  - first:
+      213: -4264591554793457008
+    second: SaraHairTopLayer_38
+  - first:
+      213: 2868588355323263253
+    second: SaraHairTopLayer_39
+  - first:
+      213: 5746449731942158405
+    second: SaraHairTopLayer_40
+  - first:
+      213: 8039572076568860260
+    second: SaraHairTopLayer_41
+  - first:
+      213: 6609100854926003545
+    second: SaraHairTopLayer_42
+  - first:
+      213: 3504565893120539830
+    second: SaraHairTopLayer_43
+  - first:
+      213: 5903191648766027843
+    second: SaraHairTopLayer_44
+  - first:
+      213: 5867888553172239034
+    second: SaraHairTopLayer_45
+  - first:
+      213: -1733837223369677846
+    second: SaraHairTopLayer_46
+  - first:
+      213: -610072685192954605
+    second: SaraHairTopLayer_47
+  - first:
+      213: 5656382888437347477
+    second: SaraHairTopLayer_48
+  - first:
+      213: -6985861090366831787
+    second: SaraHairTopLayer_49
+  - first:
+      213: -2334962151706936583
+    second: SaraHairTopLayer_50
+  - first:
+      213: -8709279421417302187
+    second: SaraHairTopLayer_51
+  - first:
+      213: 6582546810872673735
+    second: SaraHairTopLayer_52
+  - first:
+      213: 5775834670941115196
+    second: SaraHairTopLayer_53
+  - first:
+      213: -2653012688467314032
+    second: SaraHairTopLayer_54
+  - first:
+      213: 4604142170868068950
+    second: SaraHairTopLayer_55
+  - first:
+      213: 4842229385500473378
+    second: SaraHairTopLayer_56
+  - first:
+      213: -2586115980728658881
+    second: SaraHairTopLayer_57
+  - first:
+      213: -8631414043137095505
+    second: SaraHairTopLayer_58
+  - first:
+      213: 7356011473336895895
+    second: SaraHairTopLayer_59
+  - first:
+      213: 2697933958956678014
+    second: SaraHairTopLayer_60
+  - first:
+      213: 1507020328891668238
+    second: SaraHairTopLayer_61
+  - first:
+      213: -3885477935517626047
+    second: SaraHairTopLayer_62
+  - first:
+      213: 5618834630107058855
+    second: SaraHairTopLayer_63
+  - first:
+      213: -1311652904158284422
+    second: SaraHairTopLayer_64
+  - first:
+      213: 5115622791518308093
+    second: SaraHairTopLayer_65
+  - first:
+      213: -3232590026788210155
+    second: SaraHairTopLayer_66
+  - first:
+      213: 4316228606042924657
+    second: SaraHairTopLayer_67
+  - first:
+      213: -8377764045651215608
+    second: SaraHairTopLayer_68
+  - first:
+      213: 6132222096214104040
+    second: SaraHairTopLayer_69
+  - first:
+      213: -804020385417655960
+    second: SaraHairTopLayer_70
+  - first:
+      213: -4325860433710361114
+    second: SaraHairTopLayer_71
+  - first:
+      213: -4203678922262068265
+    second: SaraHairTopLayer_72
+  - first:
+      213: -3729004651274080846
+    second: SaraHairTopLayer_73
+  - first:
+      213: -9102326163014770544
+    second: SaraHairTopLayer_74
+  - first:
+      213: 2890480665705878278
+    second: SaraHairTopLayer_75
+  - first:
+      213: -492551915178578432
+    second: SaraHairTopLayer_76
+  - first:
+      213: 8328313694977145373
+    second: SaraHairTopLayer_77
+  - first:
+      213: 4660084337287627314
+    second: SaraHairTopLayer_78
+  - first:
+      213: -6646222882416606089
+    second: SaraHairTopLayer_79
+  - first:
+      213: 989874726207686054
+    second: SaraHairTopLayer_80
+  - first:
+      213: 7817270530363873130
+    second: SaraHairTopLayer_81
+  - first:
+      213: 783694398233673289
+    second: SaraHairTopLayer_82
+  - first:
+      213: 8900399400651276564
+    second: SaraHairTopLayer_83
+  - first:
+      213: 8101179004896826937
+    second: SaraHairTopLayer_84
+  - first:
+      213: 1771939056205439261
+    second: SaraHairTopLayer_85
+  - first:
+      213: 1617069288322278440
+    second: SaraHairTopLayer_86
+  - first:
+      213: -4093914000175264498
+    second: SaraHairTopLayer_87
+  - first:
+      213: -7656799591806252410
+    second: SaraHairTopLayer_88
+  - first:
+      213: 4195107072935443512
+    second: SaraHairTopLayer_89
+  - first:
+      213: 680488139691068261
+    second: SaraHairTopLayer_90
+  - first:
+      213: -3079425338135014237
+    second: SaraHairTopLayer_91
+  - first:
+      213: -4964054883662325815
+    second: SaraHairTopLayer_92
+  - first:
+      213: -7374691122712964410
+    second: SaraHairTopLayer_93
+  - first:
+      213: 4952239052778528680
+    second: SaraHairTopLayer_94
+  - first:
+      213: -1792529126729764141
+    second: SaraHairTopLayer_95
+  - first:
+      213: -717527400889983696
+    second: SaraHairTopLayer_96
+  - first:
+      213: -7695407662130281318
+    second: SaraHairTopLayer_97
+  - first:
+      213: -3227505513618778716
+    second: SaraHairTopLayer_98
+  - first:
+      213: 226603010651049675
+    second: SaraHairTopLayer_99
+  - first:
+      213: -2896646208661245472
+    second: SaraHairTopLayer_100
+  - first:
+      213: 6927641943048941683
+    second: SaraHairTopLayer_101
+  - first:
+      213: 8932485308230286733
+    second: SaraHairTopLayer_102
+  - first:
+      213: 6218660430710595390
+    second: SaraHairTopLayer_103
+  - first:
+      213: -7962383232426784726
+    second: SaraHairTopLayer_104
+  - first:
+      213: 2803351418804128438
+    second: SaraHairTopLayer_105
+  - first:
+      213: -5721278532123780535
+    second: SaraHairTopLayer_106
+  - first:
+      213: 1300675962239941373
+    second: SaraHairTopLayer_107
+  - first:
+      213: -8610556283546193989
+    second: SaraHairTopLayer_108
+  - first:
+      213: -7767759626493631478
+    second: SaraHairTopLayer_109
+  - first:
+      213: -8451687167554480855
+    second: SaraHairTopLayer_110
+  - first:
+      213: -566101033789187421
+    second: SaraHairTopLayer_111
+  - first:
+      213: 2597468064797876751
+    second: SaraHairTopLayer_112
+  - first:
+      213: -3009517255879553446
+    second: SaraHairTopLayer_113
+  - first:
+      213: 2729787019933716846
+    second: SaraHairTopLayer_114
+  - first:
+      213: 1279250641738242305
+    second: SaraHairTopLayer_115
+  - first:
+      213: -6408567577757229517
+    second: SaraHairTopLayer_116
+  - first:
+      213: -6057162862454123073
+    second: SaraHairTopLayer_117
+  - first:
+      213: 6587119033230842385
+    second: SaraHairTopLayer_118
+  - first:
+      213: -5787282875249213894
+    second: SaraHairTopLayer_119
+  - first:
+      213: -3861042361253238847
+    second: SaraHairTopLayer_120
+  - first:
+      213: -3372583724857218097
+    second: SaraHairTopLayer_121
+  - first:
+      213: -1038740755211769703
+    second: SaraHairTopLayer_122
+  - first:
+      213: 2058610615408362015
+    second: SaraHairTopLayer_123
+  - first:
+      213: 5250862267008899080
+    second: SaraHairTopLayer_124
+  - first:
+      213: 6934136924567018414
+    second: SaraHairTopLayer_125
+  - first:
+      213: -3884281520632028013
+    second: SaraHairTopLayer_126
+  - first:
+      213: 1293641444452343883
+    second: SaraHairTopLayer_127
+  - first:
+      213: 5636268434406406947
+    second: SaraHairTopLayer_128
+  - first:
+      213: -2411835879429328367
+    second: SaraHairTopLayer_129
+  - first:
+      213: -2953416902364098656
+    second: SaraHairTopLayer_130
+  - first:
+      213: -5322432435280105817
+    second: SaraHairTopLayer_131
+  - first:
+      213: -7685021403233048412
+    second: SaraHairTopLayer_132
+  - first:
+      213: 2347695808385366040
+    second: SaraHairTopLayer_133
+  - first:
+      213: -6322841414602104979
+    second: SaraHairTopLayer_134
+  - first:
+      213: -6565963886879483766
+    second: SaraHairTopLayer_135
+  - first:
+      213: -9035832670013802993
+    second: SaraHairTopLayer_136
+  - first:
+      213: 2213265420608405841
+    second: SaraHairTopLayer_137
+  - first:
+      213: 287392074191505533
+    second: SaraHairTopLayer_138
+  - first:
+      213: -7243159475151360048
+    second: SaraHairTopLayer_139
+  - first:
+      213: 6210538879575961076
+    second: SaraHairTopLayer_140
+  - first:
+      213: -8408136119393996335
+    second: SaraHairTopLayer_141
+  - first:
+      213: 8788262418577023204
+    second: SaraHairTopLayer_142
+  - first:
+      213: 6268309411578358131
+    second: SaraHairTopLayer_143
+  - first:
+      213: 1634308885867928637
+    second: SaraHairTopLayer_144
+  - first:
+      213: 4375271811973385867
+    second: SaraHairTopLayer_145
+  - first:
+      213: -3559155582754615018
+    second: SaraHairTopLayer_146
+  - first:
+      213: 4611729601327572358
+    second: SaraHairTopLayer_147
+  - first:
+      213: -7207356761995974411
+    second: SaraHairTopLayer_148
+  - first:
+      213: -1898281202276400990
+    second: SaraHairTopLayer_149
+  - first:
+      213: -6894369423070963534
+    second: SaraHairTopLayer_150
+  - first:
+      213: -2666925177648887663
+    second: SaraHairTopLayer_151
+  - first:
+      213: 1040620249574543212
+    second: SaraHairTopLayer_152
+  - first:
+      213: -2484686300589202149
+    second: SaraHairTopLayer_153
+  - first:
+      213: -8810567072862890273
+    second: SaraHairTopLayer_154
+  - first:
+      213: -6383307940656313089
+    second: SaraHairTopLayer_155
+  - first:
+      213: -4076297407749092577
+    second: SaraHairTopLayer_156
+  - first:
+      213: -1059193838127898102
+    second: SaraHairTopLayer_157
+  - first:
+      213: -8635950121397628031
+    second: SaraHairTopLayer_158
+  - first:
+      213: -3216301693901463642
+    second: SaraHairTopLayer_159
+  - first:
+      213: 6952595158703958029
+    second: SaraHairTopLayer_160
+  - first:
+      213: 2700079341251117755
+    second: SaraHairTopLayer_161
+  - first:
+      213: 778679759781205531
+    second: SaraHairTopLayer_162
+  - first:
+      213: 7100961380030150388
+    second: SaraHairTopLayer_163
+  - first:
+      213: -4033226512510062780
+    second: SaraHairTopLayer_164
+  - first:
+      213: -4563863209983217969
+    second: SaraHairTopLayer_165
+  - first:
+      213: 3370593836535451629
+    second: SaraHairTopLayer_166
+  - first:
+      213: -1501220851955046889
+    second: SaraHairTopLayer_167
+  - first:
+      213: -1617359269428141698
+    second: SaraHairTopLayer_168
+  - first:
+      213: -321493207948965234
+    second: SaraHairTopLayer_169
+  - first:
+      213: 5488367690928555511
+    second: SaraHairTopLayer_170
+  - first:
+      213: 1200534411996923072
+    second: SaraHairTopLayer_171
+  - first:
+      213: 1299771296021968917
+    second: SaraHairTopLayer_172
+  - first:
+      213: -1362956640635887261
+    second: SaraHairTopLayer_173
+  - first:
+      213: 8602428198707738891
+    second: SaraHairTopLayer_174
+  - first:
+      213: 5131949821800236727
+    second: SaraHairTopLayer_175
+  - first:
+      213: -3482927650502379614
+    second: SaraHairTopLayer_176
+  - first:
+      213: 8888354754692313681
+    second: SaraHairTopLayer_177
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SaraHairTopLayer_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1292
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7282f1b84a7fd341987681cad3bc45f
+      internalID: 6616789949963599957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1292
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3454252898b2a04696057e2ccbfa941
+      internalID: 1846351859420975643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1292
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c89d6957bd734341bffd1a1bb378150
+      internalID: -3538703594888456536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1292
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cad43b3915f1e64e84f83bade93bbbc
+      internalID: -6688161731756675011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1292
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bf9acb6591aa14aa1244e9e83f2e98
+      internalID: 4511463300723894833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1292
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9990f7ab0a51dd5499ded6ddcfd97e68
+      internalID: 7299093545727451251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1292
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cfff0c06b162146be7ece417ef6fbb
+      internalID: -1601646023031949346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1244
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068316551d2c4fe409274baea82e984f
+      internalID: 8366479853590149285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1244
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35d73cdb7d32f541b056718d092dd09
+      internalID: 8042107096306997691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1244
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e0d04614589d04a90d9df38a0f666a
+      internalID: 4626641540277992721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1244
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010b45ffe41dc654491cecd60cc0d568
+      internalID: 8343342381259600352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1244
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc92994ce1ec71042a25fe1e35eae5a7
+      internalID: 4511268048072974413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1244
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1464f8a3cb465b44ad4fae5b221d50d
+      internalID: -1073663859329740229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1244
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c523cd853ecb419d04ff84b9653e8
+      internalID: -8162949360900543979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1176
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a4ee4c9d2fc3047b8150621924cd64
+      internalID: -1705097984214152972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1176
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae57cfa1b9bdc3743bd2dbcdba794477
+      internalID: -3628371873091914268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1176
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8662eaff673248a45b284e5d26e62614
+      internalID: 2836151391393443813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1176
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a7db1c9756aba44b574c382968e8d6
+      internalID: -4130580393592394868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1176
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a308cf95c2144fb38d6c17fba7599
+      internalID: 6314395229545075573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1176
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ab022e6ffb14a488bc5710e6f773b9
+      internalID: -1361383212154041488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_20
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1176
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f31a56203e1f9048a98939cfc04f91a
+      internalID: -7576498777885970856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1116
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5b7cae67b6e6e48883f8de12859a1d
+      internalID: 6737296775720751650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1116
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a7f769758dc0442893c777eabf72f9
+      internalID: -8879880891031075804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1116
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2786d6163de0064783174bb1185b203
+      internalID: -7805983401158940543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1116
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae98715932738a49b74573e69621b0b
+      internalID: -7713148329547303698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1116
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3364a3881811b49add60bfa1e57267
+      internalID: -8494252433264785900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1116
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98247d234941e44895e1a06c532d6dc
+      internalID: 385443890595505036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1116
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562ed5979e9cfc34b9f70416e0dfc064
+      internalID: -7291483559131003064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1035
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0136ff7f3bf7f44185d5c09f607ed15
+      internalID: 4240741074087019711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1035
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20a2cb1193a11f42902d25444ecd45a
+      internalID: 7756501301675143094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1035
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e402783e91ccfd46aede3254b859bcf
+      internalID: 4002602941644718437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1035
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee979ad298d9cf6499157a43b7dcec64
+      internalID: -5282459617343731443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1035
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fda6ef08c91c24f9cf19c4ae1a8111
+      internalID: -7635333811543578812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1035
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f6ba31101996240b1419d8c6fff129
+      internalID: 3190117465136680399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1035
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e5f97e3947d9b4db986134eb4f8a8d
+      internalID: -3234196589950955156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1035
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f601cce868fedc045a8283c13eb835e5
+      internalID: -6210016581171088201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 988
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83b39fea25ae5641b4dacdc2b05dcbc
+      internalID: -2151033567469767475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 988
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdcc17d1e4d1ea438dcefbf94edea6a
+      internalID: 595763196939296310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 988
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bbc5a188ecec048bfc24283c5689fc
+      internalID: -4264591554793457008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 988
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa840f8586eddfb4a872faecd26cdc9f
+      internalID: 2868588355323263253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_40
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 988
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7214688459fbfb54587fe5c2124210d2
+      internalID: 5746449731942158405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 988
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7733254973ad14c9e2d4c0882980a4
+      internalID: 8039572076568860260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 988
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1ec562f9d21d04c8e8367c1d4e653d
+      internalID: 6609100854926003545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 988
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b414010dd794d14eb7f1f8189d6fa45
+      internalID: 3504565893120539830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 920
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b3b78e3ac6c7a41af9660871333200
+      internalID: 5903191648766027843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 920
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a794668d4fcd4b47b153b7266638daf
+      internalID: 5867888553172239034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 911
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a283aca5fd42e489ea44e5be9fd419
+      internalID: -1733837223369677846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 920
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde75111df3d3714da33c27ef68c2b75
+      internalID: -610072685192954605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 921
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5948ff1ec03517e49b2ba4ea9ab370a1
+      internalID: 5656382888437347477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 921
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6761518006803a4488a7e2ab6855379f
+      internalID: -6985861090366831787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 919
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cede89fb4d2e99746931e252c82fdce4
+      internalID: -2334962151706936583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_51
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 920
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0a03dfbae3aac429fd37bc9bd4d073
+      internalID: -8709279421417302187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 860
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31bb40369eb94f419bebbe8af4b3f99
+      internalID: 6582546810872673735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 860
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56776853820e9914fa514223f04cb342
+      internalID: 5775834670941115196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 860
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0908c793c6b61459ee53e80a7d6280
+      internalID: -2653012688467314032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 860
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b701b92b33ef84196949bc9b503c00
+      internalID: 4604142170868068950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 860
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a32c82616ddeac46a7cae161e5854cb
+      internalID: 4842229385500473378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 860
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471c23bebab8e7b44b0686e4cb955675
+      internalID: -2586115980728658881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 860
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14c15a31706b8c43b8afee469b418a3
+      internalID: -8631414043137095505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_59
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 860
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d80a463e8cd6e945b65094ae2586650
+      internalID: 7356011473336895895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 781
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54c57e6dde9dec4d8891bfb1f5c07ea
+      internalID: 2697933958956678014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 781
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efea026bd3908843b31676ddb93b918
+      internalID: 1507020328891668238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 781
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2112c56804b9d9a46a6a582d79a4171e
+      internalID: -3885477935517626047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 781
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af4f1060c399ca4e9b5a7da8a44bbe7
+      internalID: 5618834630107058855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 781
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de045de029bd5df45943ae0ebba539fb
+      internalID: -1311652904158284422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_65
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 781
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a4a5ed5295a75479610331b2e6e441
+      internalID: 5115622791518308093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 781
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b351ddabcf1c02468903b10abffdf67
+      internalID: -3232590026788210155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 781
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f21c40ce27d0f3439edfb28a1d68add
+      internalID: 4316228606042924657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_68
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 781
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c25f6441b0ebe4448de380e8425fdab
+      internalID: -8377764045651215608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 732
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954786670b5c21f4fbae0a9ccc6d6651
+      internalID: 6132222096214104040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 731
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7317e6164167c0145b12b4f1cca6c5d5
+      internalID: -804020385417655960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 731
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b87ffbf2483247bcfc11822d778bb
+      internalID: -4325860433710361114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 732
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9fa4f681d6923468bad20b984f7c99
+      internalID: -4203678922262068265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 732
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8a5a905259cf840aa165c64ca86c61
+      internalID: -3729004651274080846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 731
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b368d1a89498a54281b1842d5a8e9c7
+      internalID: -9102326163014770544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 731
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72efeefd5a14ba546903628647a72738
+      internalID: 2890480665705878278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 732
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b207f2dc3c0dce4c8270ce5534b1fb6
+      internalID: -492551915178578432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 732
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8cd502c35a486459b5005fd1d4e82f
+      internalID: 8328313694977145373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 664
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a117ad6473db68449aea4638b62a28b1
+      internalID: 4660084337287627314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 664
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08bee3d8c6e87f48b7564f75a6d1b44
+      internalID: -6646222882416606089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 664
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89334e511cbbff244b9dbd7ea1478779
+      internalID: 989874726207686054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 663
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c67395adabbfe444ba9716db24553dd
+      internalID: 7817270530363873130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_82
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 664
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73053d5a5a1068944967f306844993b3
+      internalID: 783694398233673289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_83
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 664
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed94a02c2db2954e953bdb5956bc36c
+      internalID: 8900399400651276564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_84
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 664
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b5d91864354534f879da88b35ddfd3
+      internalID: 8101179004896826937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_85
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 660
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f0e26f0b1a29148b6cde3f28ac4d63
+      internalID: 1771939056205439261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_86
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 664
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3430b7d7be979954da1f17c58c2ea83f
+      internalID: 1617069288322278440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 604
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5cd08fff33d8e469bc43d411dba2e9
+      internalID: -4093914000175264498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 603
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6242caffbd1cd8447b6cf799e0bd82c4
+      internalID: -7656799591806252410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 603
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f1cfaf12f569b43a184267762268d4
+      internalID: 4195107072935443512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_90
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 604
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b31540ee815ab74dad6eccf9378e3be
+      internalID: 680488139691068261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_91
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 604
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120372c814848c44bb70d3ac54c1da5f
+      internalID: -3079425338135014237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_92
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 603
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d9a0fc94c5b994fa8df538c175e9f2
+      internalID: -4964054883662325815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_93
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 603
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230a2f5c9d511c54184db39f802d9465
+      internalID: -7374691122712964410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_94
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 604
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3189a98ad27e49b6e972b45a4dfad
+      internalID: 4952239052778528680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 604
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2b3a0430a24264fb0237f627091097
+      internalID: -1792529126729764141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 525
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce298351e0e935469004483e26c44d8
+      internalID: -717527400889983696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 525
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb05a6599ca8f642af8ab7ae20e9661
+      internalID: -7695407662130281318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 525
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a384aa2e91921bb4bb47e1dc131f0041
+      internalID: -3227505513618778716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 526
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eae8ba04ff100747af4728c47e87d61
+      internalID: 226603010651049675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_100
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 526
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f3a188549e3374889860dd97af2aa4
+      internalID: -2896646208661245472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_101
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 526
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d242b50017da044a3b818bf1edbd7b
+      internalID: 6927641943048941683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 476
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edc7af1c76088143848f9bb17a25ab1
+      internalID: 8932485308230286733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_103
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 474
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1fb8ac849f990418119835fde956fa
+      internalID: 6218660430710595390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 475
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3c04c11037667478d8a115e77cc4c9
+      internalID: -7962383232426784726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 476
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358707f8766ff7948a428b535931f619
+      internalID: 2803351418804128438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_106
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 476
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf5b49aea66aa341a66840c3e9b7239
+      internalID: -5721278532123780535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_107
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 476
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ca3cc82ccc489479113577942dfc4e
+      internalID: 1300675962239941373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_108
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 408
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f8cb291c8d24042bf23a53da357624
+      internalID: -8610556283546193989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 406
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ced88b7b53923498ff695ca494517c
+      internalID: -7767759626493631478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 407
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6cc876a62d0c141a9f5f52126509bc
+      internalID: -8451687167554480855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 408
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcba018c2d498d14eafb2dac6e5254c8
+      internalID: -566101033789187421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_112
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 408
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6982fc038779e499f59724f192b02d
+      internalID: 2597468064797876751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_113
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 410
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b57860bd1c9b54e9f0ab7595f30513
+      internalID: -3009517255879553446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 348
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f57122acb47804c99beeae2594afd6
+      internalID: 2729787019933716846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 346
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038d6635a68a0f94dbe5954453e837f0
+      internalID: 1279250641738242305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_116
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 347
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b63ae2f03d9e82428953aa12a24e704
+      internalID: -6408567577757229517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_117
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 348
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65744fae4f29af47a9187a0aea428c1
+      internalID: -6057162862454123073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_118
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 348
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c45991d4b4e6604db2efc93216f03de
+      internalID: 6587119033230842385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_119
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 348
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c47ca6dd0fde344a18909dc3d28a36
+      internalID: -5787282875249213894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da01e7c6618c44c9d82e86e506e56b
+      internalID: -3861042361253238847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a39ddcadd867d14f9dd28ea86936679
+      internalID: -3372583724857218097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_122
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68adc5b04abc2bb4da4a84e4313f25e1
+      internalID: -1038740755211769703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5821b70e0919a64894b7101125098aa
+      internalID: 2058610615408362015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ece737d6eb1604aa288426a9b348a0
+      internalID: 5250862267008899080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b58e54d553f2d43b9102aec5e75bca
+      internalID: 6934136924567018414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7135989acfa26084399bbbbcba017830
+      internalID: -3884281520632028013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0dc386a6107c5438ce7e87f4e8467b
+      internalID: 1293641444452343883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5707be3b0e9036a40bc85084e6725fa8
+      internalID: 5636268434406406947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15522cc64da5f640b969b6a12aab61a
+      internalID: -2411835879429328367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516cb26a9f107394a8dee5553086c4ba
+      internalID: -2953416902364098656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6acd1bd76bf4e640b7d929e9f7a5ed3
+      internalID: -5322432435280105817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 269
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396b16fab9a92a94f9cb41979ec3b78d
+      internalID: -7685021403233048412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_133
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 220
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bf24ee90aff49438a40a46b52d6d8d
+      internalID: 2347695808385366040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 220
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0981ab25095b94abd84b177bccfb57
+      internalID: -6322841414602104979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_135
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e5545192c51b0439baea1dff74e8c3
+      internalID: -6565963886879483766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_136
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 218
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e75ebdc518cac4e899c03078914dd7
+      internalID: -9035832670013802993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_137
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 220
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8949b769e65a24aa704867fd6cedfc
+      internalID: 2213265420608405841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_138
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 226
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf73ee9236db83c469e4b2c57e3b39ef
+      internalID: 287392074191505533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_139
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 225
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7ccf50ca2e29b4f84734b1d36a0890
+      internalID: -7243159475151360048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_140
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 220
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d16a614d241a6b4fa9aaba6117e97fd
+      internalID: 6210538879575961076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_141
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 220
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a045a6c4c58e6458415176f0da1321
+      internalID: -8408136119393996335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_142
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 220
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d080e740b74bd224d9fd7e0d9917a568
+      internalID: 8788262418577023204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_143
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 220
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c89fec50c35454e939b05e0dfbef3d
+      internalID: 6268309411578358131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_144
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 220
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e753b3e6c26f38648905c890b9e92242
+      internalID: 1634308885867928637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_145
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 220
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974cfa6260e4048418649f994205fab2
+      internalID: 4375271811973385867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_146
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb822940127b80f4daa3fa4f72b24e1e
+      internalID: -3559155582754615018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae53c97e246dcd459ac10c7fc893560
+      internalID: 4611729601327572358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd55ef449851d74f9d138fb8aba52e7
+      internalID: -7207356761995974411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce430c7e3335b2449a435d63fdb2bcb
+      internalID: -1898281202276400990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a489befa19dcc3b48837fd2058dde37a
+      internalID: -6894369423070963534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de0cd2d41ad97249a7f554687f8ab91
+      internalID: -2666925177648887663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dac65ad6bc8624886a707ced8e6a81
+      internalID: 1040620249574543212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c167982a3f22c46bb74c19d422976d
+      internalID: -2484686300589202149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8393a94d2f379438cbc05e702a2396
+      internalID: -8810567072862890273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4968f44476246241b870c18282a404d
+      internalID: -6383307940656313089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df8534b87906704894fe31b89257aba
+      internalID: -4076297407749092577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100979d35cb040543b2d6fc4f680c6af
+      internalID: -1059193838127898102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 152
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad06250d261a02408b0e7a4fdaa883a
+      internalID: -8635950121397628031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 92
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341bef2f5fc94be47b9e0834a275d96c
+      internalID: -3216301693901463642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 92
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a023fa68fe837a47bbf68753b7336df
+      internalID: 6952595158703958029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_161
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 92
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce705460ed5d091449ee34d0cfae7760
+      internalID: 2700079341251117755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_162
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 90
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5d70ad9e772c448bf100ce605f13a5
+      internalID: 778679759781205531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_163
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 92
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96acf6250ea48154989e24e0a46eaf0d
+      internalID: 7100961380030150388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 98
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3c2a6c5662b8e40b90a9ef898d1b0b
+      internalID: -4033226512510062780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_165
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 97
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aaf572fc0910b4f9bc591db5f46631
+      internalID: -4563863209983217969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_166
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 92
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ace89b7a396024a9e11c90c2de38f4
+      internalID: 3370593836535451629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_167
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 92
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae64b53198fc1e4c823fe1d6bcec6b1
+      internalID: -1501220851955046889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_168
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 92
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e2269fbfabeb9458897881bc67f70c
+      internalID: -1617359269428141698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_169
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 92
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df1d77a1b07a0242a211b9361211053
+      internalID: -321493207948965234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 92
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f8a25592fd6047b6c7133fc05e55b
+      internalID: 5488367690928555511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_171
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 92
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6459575abc966944937ee7a6b968247
+      internalID: 1200534411996923072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_172
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 23
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca76d5af36225194e802305ee26a5d31
+      internalID: 1299771296021968917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_173
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 23
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2763bbcac96eb4e837221c7e931c0e
+      internalID: -1362956640635887261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_174
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 18
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43af9d5ab38fe1049b35dcfa92a56f62
+      internalID: 8602428198707738891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_175
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 14
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eac757b2618d246aba21fae71260ec
+      internalID: 5131949821800236727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_176
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 9
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3238fec343f7b3f4e88b3f862bbaf318
+      internalID: -3482927650502379614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaraHairTopLayer_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45783f6c6c9e86549bdf9571c94b7954
+      internalID: 8888354754692313681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

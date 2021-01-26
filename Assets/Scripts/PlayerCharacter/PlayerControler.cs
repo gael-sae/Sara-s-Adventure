@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class PlayerControler : MonoBehaviour
 {
@@ -9,6 +10,8 @@ public class PlayerControler : MonoBehaviour
     BoxCollider2D boxCollider2d;
     [SerializeField] 
     GameObject panelVictory;
+    //[SerializeField]
+    //GameObject pauseFirstButton;
 
     [SerializeField]
     float speed = 2f;
@@ -22,7 +25,6 @@ public class PlayerControler : MonoBehaviour
     Vector2 direction;
 
     bool Win = false;
-    bool Idle = true;
     bool jumpUP = false;
 
     [SerializeField]
@@ -69,20 +71,6 @@ public class PlayerControler : MonoBehaviour
   
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            if (Time.timeScale == 1 & !Idle)
-            {
-                Time.timeScale = 0;
-                Idle = true;
-            }
-            else
-            {
-                Time.timeScale = 1;
-                Idle = false;
-            }
-        }
-
         if (gemCatch >= gemMinim)
         {
             Win = true;
@@ -124,7 +112,7 @@ public class PlayerControler : MonoBehaviour
                     direction = Vector2.up * jumpVelocity;
                     jumpUP = true;
                 }
-                if (Input.GetKeyUp(KeyCode.Space) || Input.GetKeyUp(KeyCode.UpArrow))
+                if (Input.GetKeyUp(KeyCode.Space) || Input.GetKeyUp(KeyCode.UpArrow) || Input.GetButtonDown("Jump"))
                 {
                     Debug.Log("button up");
                     jumpUP = false;
